@@ -1,0 +1,12 @@
+name: discord_handler_dart
+description: A modern, feature-rich Discord bot handler built with Dart and nyxx.
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  nyxx: ^6.9.0
+  dotenv: ^4.2.0
+  http: ^1.2.0
+  mongo_dart: ^0.10.0

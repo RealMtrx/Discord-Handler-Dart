@@ -124,4 +124,4 @@ class PrefixPing {
 
 ---
 
-**Discord Handler** - A modern, scalable Discord bot framework built with Dart.
+**Discord Handler** — Built by **Mtrx** — Discord: **0hu2**
